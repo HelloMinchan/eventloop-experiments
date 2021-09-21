@@ -1,5 +1,5 @@
 /*
-    timer phase
+    timers delay time deferred
     ---
     setTimeout 임계값보다 지연되어 실행 되는 경우
     while 루프에 의해 10ms 지연되어 약 105ms에 실행된다.

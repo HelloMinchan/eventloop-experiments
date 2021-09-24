@@ -1,5 +1,5 @@
 /*
-  setTimeout vs setImmediate 1
+  setTimeout vs setImmediate 2
   ---
   I/O 작업의 내부에서 실행 시 setImmediate가 반드시 먼저 실행됨
 
